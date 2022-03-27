@@ -1,4 +1,0 @@
-SELECT
-  customer_name
-FROM
-  orders;
