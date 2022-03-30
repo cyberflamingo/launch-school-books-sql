@@ -4,5 +4,5 @@ CREATE TABLE orders(
   burger varchar(50),
   side varchar(50),
   drink varchar(50),
-  order_total decimal(4, 2) NOT NULL,
+  order_total decimal(4, 2) NOT NULL
 );
